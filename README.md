@@ -2,7 +2,7 @@
 
 Small utility functions for basic statistics, built to practice the GitHub Pull Request workflow.
 
-## Instalation
+## Installation
 
 No dependencies needed. Just copy `stats.py` into your project.
 
